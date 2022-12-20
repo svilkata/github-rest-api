@@ -5,4 +5,4 @@
 * github-rest-api-demos  on Quarkus
 
 
-#### I can try to read in a similar way a private repository of an organization - TODO
+#### I can try to read in a similar way a private repository of an organization when authenticated user - TODO

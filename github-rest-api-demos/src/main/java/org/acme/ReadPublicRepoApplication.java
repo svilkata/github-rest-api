@@ -25,8 +25,8 @@ public class ReadPublicRepoApplication implements QuarkusApplication {
     private static final String GITHUB_USERNAME = "svilkata";
     private static final String GITHUB_REPO_NAME = "quarkus-demos";
 
-//    private static final String GITHUB_ORG_NAME = "zerodt-io";
-//    private static final String GITHUB_REPO_NAME = "sandbox";
+//    private static final String GITHUB_ORG_NAME = "aaaaaa";
+//    private static final String GITHUB_REPO_NAME = "bbbbbb";
 
     private static final String GITHUB_REPO_BRANCH = "main";
     private static Gson gson = new GsonBuilder().setPrettyPrinting().create();
