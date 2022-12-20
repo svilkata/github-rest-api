@@ -1,0 +1,4 @@
+=== Github REST API reading programatically with SPRING
+
+===== This demo is made with Spring(Java) plus a few more libraries.
+===== It reads info programatically via the Github REST API from only PUBLIC repositories.

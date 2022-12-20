@@ -1,0 +1,13 @@
+== Github REST API reading programatically with QUARKUS
+
+===== This demo is made with Quarkus(Java) plus a few more libraries.
+===== It reads info programatically via the Github REST API from only PUBLIC repositories.
+
+
+There are 2 methods:
+
+===== readFromRepoFileContentAndSaveFile(); - we read here file content
+
+===== readFromRepoFilesListAndMetadataRecursively(); - we read here all files and directories
+
+
